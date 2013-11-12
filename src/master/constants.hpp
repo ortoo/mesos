@@ -40,13 +40,13 @@ namespace master {
 extern const int MAX_OFFERS_PER_FRAMEWORK;
 
 // Minimum number of cpus / task.
-extern const uint32_t MIN_CPUS;
+extern const double MIN_CPUS;
 
 // Minimum amount of memory / task.
 extern const uint32_t MIN_MEM;
 
 // Maximum number of CPUs per machine.
-extern const uint32_t MAX_CPUS;
+extern const double MAX_CPUS;
 
 // Maximum amount of memory / machine.
 extern const uint32_t MAX_MEM;

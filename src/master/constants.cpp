@@ -25,7 +25,7 @@ namespace internal {
 namespace master {
 
 const int MAX_OFFERS_PER_FRAMEWORK = 50;
-const uint32_t MIN_CPUS = 1;
+const double   MIN_CPUS = 0.4;
 const uint32_t MIN_MEM = 32 * Megabyte;
 const uint32_t MAX_CPUS = 1000 * 1000;
 const uint32_t MAX_MEM = 1024 * 1024 * Megabyte;
