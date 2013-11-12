@@ -46,7 +46,7 @@ extern const double MIN_CPUS;
 extern const uint32_t MIN_MEM;
 
 // Maximum number of CPUs per machine.
-extern const double MAX_CPUS;
+extern const uint32_t MAX_CPUS;
 
 // Maximum amount of memory / machine.
 extern const uint32_t MAX_MEM;
